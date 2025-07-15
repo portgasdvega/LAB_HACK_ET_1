@@ -39,7 +39,7 @@ run
 ```
 ## Evidencias
 
-Las evidencias se encuentran en el archivo PDF LAB_HACK_ET_1.pdf y en la carpeta evidencias/.
+Las evidencias se encuentran en el archivo PDF LAB_HACK_ET_1.pdf y en las imagenes de evidencias.
 
 ## Conclusiones
 
