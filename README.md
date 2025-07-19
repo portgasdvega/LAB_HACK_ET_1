@@ -43,8 +43,8 @@ Las evidencias se encuentran en el archivo PDF LAB_HACK_ET_1.pdf y en las imagen
 
 ## Conclusiones
 
-    Se logró comprometer completamente la máquina víctima.
+Se logró comprometer completamente la máquina víctima.
 
-    Se aplicaron técnicas básicas de pentesting con herramientas estándar.
+Se aplicaron técnicas básicas de pentesting con herramientas estándar.
 
-    Buen ejemplo de práctica en laboratorio cerrado y ético.
+Buen ejemplo de práctica en laboratorio cerrado y ético.
